@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MeetingApp/css/styles.841ffw3y3c.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"841ffw3y3c"},{"Name":"integrity","Value":"sha256-mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM="},{"Name":"label","Value":"_content/MeetingApp/css/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"112"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 14:54:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MeetingApp/css/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"112"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 14:54:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MeetingApp/lib/bootstrap/css/bootstrap-grid.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\css\bootstrap-grid.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

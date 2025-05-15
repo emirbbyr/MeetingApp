@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cknhCiJCMJcQ+NmIzQ4zS4tHgHSGZ+JJ3qIHWqU+ELQ=",
+  "Hash": "Ke1cyMnzQd3pPAWs+yzDF7sOA8vpWlWQBHPkAhEU5M4=",
   "Source": "MeetingApp",
   "BasePath": "_content/MeetingApp",
   "Mode": "Default",
@@ -500,6 +500,27 @@
       "OriginalItemSpec": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
+      "Identity": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\dgdehw2bi2-841ffw3y3c.gz",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "css/styles#[.{fingerprint=841ffw3y3c}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "leqb936jh4",
+      "Integrity": "k/C2wsbkHPbLIofZOktCBwDsQekoz7mxUof/XjKuQzo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\eo8tae4bdn-kq76evwswl.gz",
       "SourceId": "MeetingApp",
       "SourceType": "Discovered",
@@ -939,6 +960,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\wwwroot\\css\\styles.css",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "841ffw3y3c",
+      "Integrity": "mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
@@ -3798,6 +3840,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/styles.841ffw3y3c.css",
+      "AssetFile": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\dgdehw2bi2-841ffw3y3c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.009433962264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k/C2wsbkHPbLIofZOktCBwDsQekoz7mxUof/XjKuQzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 14:54:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "841ffw3y3c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.841ffw3y3c.css",
+      "AssetFile": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 14:54:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "841ffw3y3c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.841ffw3y3c.css.gz",
+      "AssetFile": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\dgdehw2bi2-841ffw3y3c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k/C2wsbkHPbLIofZOktCBwDsQekoz7mxUof/XjKuQzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 14:54:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "841ffw3y3c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k/C2wsbkHPbLIofZOktCBwDsQekoz7mxUof/XjKuQzo="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\dgdehw2bi2-841ffw3y3c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.009433962264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k/C2wsbkHPbLIofZOktCBwDsQekoz7mxUof/XjKuQzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 14:54:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 14:54:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mK27wDjJPWT7YfxWsbrPZqPVJQU8EELLgw4NfVKlJtM="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\dgdehw2bi2-841ffw3y3c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k/C2wsbkHPbLIofZOktCBwDsQekoz7mxUof/XjKuQzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 14:54:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k/C2wsbkHPbLIofZOktCBwDsQekoz7mxUof/XjKuQzo="
+        }
+      ]
+    },
     {
       "Route": "lib/bootstrap/css/bootstrap-grid.css",
       "AssetFile": "C:\\Users\\emirhan.bayir\\Desktop\\ASP-NetCore Dersleri\\MeetingApp\\obj\\Debug\\net9.0\\compressed\\npafnxcaza-z57vpuw5jy.gz",

@@ -74,3 +74,5 @@ C:\Users\emirhan.bayir\Desktop\ASP-NetCore Dersleri\MeetingApp\obj\Debug\net9.0\
 C:\Users\emirhan.bayir\Desktop\ASP-NetCore Dersleri\MeetingApp\obj\Debug\net9.0\compressed\d33ao2d0rr-vkd2ko5sk0.gz
 C:\Users\emirhan.bayir\Desktop\ASP-NetCore Dersleri\MeetingApp\obj\Debug\net9.0\compressed\k7f6xgipst-55iu3y4t2f.gz
 C:\Users\emirhan.bayir\Desktop\ASP-NetCore Dersleri\MeetingApp\obj\Debug\net9.0\compressed\ql347wraov-3yz6stxgqc.gz
+C:\Users\emirhan.bayir\Desktop\ASP-NetCore Dersleri\MeetingApp\obj\Debug\net9.0\MeetingApp.sourcelink.json
+C:\Users\emirhan.bayir\Desktop\ASP-NetCore Dersleri\MeetingApp\obj\Debug\net9.0\compressed\dgdehw2bi2-841ffw3y3c.gz

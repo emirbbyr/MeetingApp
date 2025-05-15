@@ -7,6 +7,7 @@ namespace MeetingApp.Controllers
    {
       public IActionResult Index()
       {
+          
 
          int saat = DateTime.Now.Hour;
 
@@ -14,14 +15,15 @@ namespace MeetingApp.Controllers
          // ViewBag.UserName ="Emirhan";
 
          ViewData["Selamlama"] = saat > 12 ? "İyi Günler" : "Günaydın";
-         ViewData["UserName"] = "Emirhan";
+          int UserCount = Repository.Users.Where(info=>info.WillAttend == true).Count();
+         //ViewData["UserName"] = "Emirhan";
 
          var meetingInfo = new MeetingInfo()
          {
             Id = 1,
             Location = "Abc Kongre merkezi",
             Date = new DateTime(2025, 01, 20, 20, 0, 0),
-            NumberOfPeople = 199
+            NumberOfPeople = UserCount
 
          };
 
